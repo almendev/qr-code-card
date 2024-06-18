@@ -67,5 +67,5 @@ article {
 .text-container p {
   color: var(--gray);
   font-size: 0.9375em;
-  padding: 1rem;
+  padding: 0 1rem;
 }
