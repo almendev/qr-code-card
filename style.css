@@ -58,7 +58,7 @@ article {
   text-align: center;
 }
 
-.text-container h2 {
+.text-container h1 {
   color: var(--dark-navy);
   font-size: 1.375em;
   font-weight: bold;
